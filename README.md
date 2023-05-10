@@ -1,4 +1,4 @@
-# MOOC Machine Learning in Weather & Climate - Jupyter notebook exercises
+# MOOC Machine Learning in Weather & Climate - Tier 3 Jupyter notebook exercises
 
 This repository hosts my versions of [Jupyter notebooks](https://jupyter.org/) based exercises of the [Massive Open Online Course (MOOC) on Machine Learning in Weather & Climate of the ECMWF](https://www.ecmwf.int/mlwc-mooc). The original repository of the MOOC is [here](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate).
 
