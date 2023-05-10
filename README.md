@@ -10,9 +10,9 @@ The goal of this repository is to report my work on the third tier, which is abo
 
 <ul>
   
-<li> <a href=https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_obs-env.ipynb>SOL_obs-env.ipynb</a> </li>
+<li> <a href=https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_obs-env.ipynb target="_blank">SOL_obs-env.ipynb</a> </li>
   
-<li> <a href=https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb>SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb</a></li>
+<li> <a href=https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb target="_bank">SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb</a></li>
 
 </ul>
 
