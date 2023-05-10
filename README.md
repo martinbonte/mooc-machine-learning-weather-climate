@@ -1,28 +1,16 @@
 # MOOC Machine Learning in Weather & Climate - Jupyter notebook exercises
 
-This repository hosts my versions of [Jupyter notebook](https://jupyter.org/) based exercises of the Massive Open Online Course (MOOC) on Machine Learning in Weather & Climate https://www.ecmwf.int/mlwc-mooc.
+This repository hosts my versions of [Jupyter notebooks](https://jupyter.org/) based exercises of the [Massive Open Online Course (MOOC) on Machine Learning in Weather & Climate of the ECMWF](https://www.ecmwf.int/mlwc-mooc). The original repository of the MOOC is [here](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate).
 
-The course has 3 tiers. The [first one](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/tree/main/tier_1) intoduces machine learning and the [second](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/tree/main/tier_2) explains key concepts of machine learning. The third tier is about the practical applications of machine learning in weather and climate.
+The course has 3 tiers. The [first one](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/tree/main/tier_1) intoduces machine learning and the [second](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/tree/main/tier_2) explains key concepts of machine learning.
 
-The notebook files can be found in the subdirectories corresponding to each tier of the MOOC. These include the following:
+The goal of this repository is to report my work on the third tier, which is about the practical applications of machine learning in weather and climate. This tier is further split into sections corresponding to one specific topic. The notebooks I worked on can be accessed in the corresponding subdirectories or by clicking on the links below. These open the notebooks on [nbviewer](nbviewer.org), as the notebooks are better rendered there.
 
-## [Tier 1 notebooks (ML in Weather & Climate)](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/tree/main/tier_1)
-In this tier there is only one notebook that demonstrates how to build a simple neural network on the WeatherBench dataset.
+## Observations
 
-## [Tier 2 notebooks (Concepts of Machine Learning)](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/tree/main/tier_2)
-In this tier there are notebooks for each module that provide practical guidance on key concepts of Machine Learning.
+[SOL_obs-env.ipynb](https://nbviewer.org/github.com/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_obs-env.ipynb)
 
-## [Tier 3 notebooks (Practical ML Applications in Weather & Climate)](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/tree/main/tier_3)
-Each module of this tier contains notebooks that demonstrate practical applications of Machine Learning in the various stages of Numerical Weather and Climate prediction.
-
-## How to run the notebooks
-
-The notebooks can either be downloaded and run on participants' own computers, or they can be run directly in various cloud environments. The advantage of the latter is that no software needs to be installed locally. In each notebook a number of options are provided where the notebook can be run. These may include the following:
-
-|Colab|Kaggle|Deepnote|
-|:-:|:-:|:-:|
-|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code)|[![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://deepnote.com/)|
-|Colab requires a Google account, which can easily be set-up for free.|Requires (free) registration with Kaggle. Once in, "switch on the internet" via settings.|Requires (free) registration. Deepnote is a good platform also for collaboration.|
+[SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb](https://nbviewer.org/github.com/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb)
 
 ## License
 
