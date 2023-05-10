@@ -7,12 +7,11 @@ The course has 3 tiers. The [first one](https://github.com/ecmwf-projects/mooc-m
 The goal of this repository is to report my work on the third tier, which is about the practical applications of machine learning in weather and climate. This tier is further split into sections corresponding to one specific topic. The notebooks I worked on can be accessed in the corresponding subdirectories or by clicking on the links below. These open the notebooks on [nbviewer.org](https://nbviewer.org), as the notebooks are better rendered there.
 
 ## Observations
+<ul>
+<li>[SOL_obs-env.ipynb](https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_obs-env.ipynb)</li>
 
-[SOL_obs-env.ipynb](https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_obs-env.ipynb)
-
-[SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb](https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb)
-
-https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb
+</li>[SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb](https://nbviewer.org/github/martinbonte/mooc-machine-learning-weather-climate/blob/main/tier_3/observations/SOL_mooc_tier3_1_ml_sat_panegrossi_v5.ipynb)</li>
+</ul>
 ## License
 
 Unless otherwise stated, the notebooks fall under [Apache License 2.0](https://github.com/ecmwf-projects/mooc-machine-learning-weather-climate/blob/main/LICENSE). In applying this licence, ECMWF does not waive the privileges and immunities granted to it by virtue of its status as an intergovernmental organisation nor does it submit to any jurisdiction.
